@@ -1,5 +1,5 @@
 # <img width="25" img src="static/img/logo_icon.png" /> Doctrina
-## DECO3801-2021-Sem-2
+## DECO3801-2021-Sem-2 Course Project
 <p align="center">
     <img width="500" img src="static/img/logo.png" />
 </p>
@@ -15,6 +15,9 @@
 
 ## Our Website
 Doctrina is a website made for teachers to share in class activities, resources and more with each other. It is designed so that you - the teacher - finds it easier to do the thing you love most: teach! We help you find worksheets, tutorials and questions for your students so you can spend more time teaching them, rather then putting time into creating said worksheets, tutorials and questions.
+
+The actual website address: https://officialteamname.uqcloud.net/home
+
 # About
 ## Front End
 ___
